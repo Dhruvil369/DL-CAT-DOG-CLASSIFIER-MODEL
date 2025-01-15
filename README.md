@@ -1,4 +1,4 @@
--> Cat-Dog Classification Model
+-> Cat-Dog Image Classification Model using CNN 
 
 -> Overview
 
